@@ -1,4 +1,4 @@
-# Muhammad Jameel (Thomas Mooney)
+# Thomas Mooney
 
 Software developer and English teacher. I build small, local-first web tools, computational geometry studies, and the site my students learn from. Most of it is TypeScript, and all of it is deployed and usable, not just a repo.
 
