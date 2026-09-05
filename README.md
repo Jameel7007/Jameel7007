@@ -18,5 +18,5 @@ Website: [muhammadjameel.com](https://muhammadjameel.com)
 ## How I work
 
 - Domain logic stays pure and separate from the UI, so it can be tested without a browser. That is where most of my tests live.
-- Every project has typecheck, tests, and build running in CI, and deploys automatically from `main`.
+- Everything deploys automatically from `main`. The application projects also run typecheck, tests, and build in CI before they ship.
 - READMEs explain why a design decision was made, including the ones I got wrong first.
