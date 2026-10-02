@@ -12,6 +12,7 @@ Software developer and English teacher. I build small, local-first web tools, co
 | [Order in Space](https://github.com/Jameel7007/order-in-space) | A geometry-first, scroll-driven study of polyhedral construction. A pure-TypeScript kernel generates the Platonic and Archimedean solids and FCC sphere packings, independent of any renderer. | TypeScript, Three.js | [Live](https://jameel7007.github.io/order-in-space/) |
 | [Masters of the Design](https://github.com/Jameel7007/masters-of-design-geometry-study) | An interactive study of a mathematically generated Sufi Enneagram as a field for eleven Naqshbandi principles. | TypeScript | [Live](https://jameel7007.github.io/masters-of-design-geometry-study/) |
 | [From the Point](https://github.com/Jameel7007/from-the-point-site) | A scroll-driven Islamic sacred geometry drawing, constructed from a single point. | Three.js | [Live](https://jameel7007.github.io/from-the-point-site/) |
+| [Misbaḥa](https://github.com/Jameel7007/misbaha) | A 3D strand of prayer beads you count with. Ninety-nine beads simulated with hand-written position-based physics, a prayer rug in natural dyes, and a colour system checked on the rendered pixels. | JavaScript, Three.js, Vite | [Live](https://jameel7007.github.io/misbaha/) |
 | [Thomas's Classroom](https://github.com/Jameel7007/thomas-classroom) | The site my students learn from: a complete A0 to C1 English curriculum for adult learners, 114 lessons, with method and booking pages. | Astro | [Live](https://jameel7007.github.io/thomas-classroom/) |
 
 ## How I work
