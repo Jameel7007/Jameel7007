@@ -7,7 +7,7 @@ I'm a front-end developer and English teacher. I build interactive pieces in Thr
 **Open to freelance projects:** scrollytelling pages, interactive 3D for museums and cultural organisations, and generative pattern work. Email [thomasmmooney@yahoo.com](mailto:thomasmmooney@yahoo.com).
 
 <p>
-  <a href="https://jameel7007.github.io/fatihah-manuscript/"><img src="https://raw.githubusercontent.com/Jameel7007/fatihah-manuscript/main/docs/readme/hero-ending.jpg" alt="Al-Fātiḥah: seven verses standing in gold" width="32%" /></a>
+  <a href="https://jameel7007.github.io/endless-rose/"><img src="https://raw.githubusercontent.com/Jameel7007/endless-rose/main/docs/readme/rose.jpg" alt="Endless Rose: a zellige rose laid in the dome" width="32%" /></a>
   <a href="https://jameel7007.github.io/rosette/"><img src="https://raw.githubusercontent.com/Jameel7007/rosette/main/docs/readme/finished.jpg" alt="Rosette in Tesserae: a finished zellige panel" width="32%" /></a>
   <a href="https://jameel7007.github.io/muqarnas/"><img src="https://raw.githubusercontent.com/Jameel7007/muqarnas/main/docs/media/muqarnas-hero.gif" alt="A muqarnas vault rising from its plan" width="32%" /></a>
 </p>
@@ -16,7 +16,6 @@ I'm a front-end developer and English teacher. I build interactive pieces in Thr
 
 | Project | What it is | Built with | |
 | --- | --- | --- | --- |
-| [Al-Fātiḥah](https://github.com/Jameel7007/fatihah-manuscript) | The opening sūrah as a manuscript being made: a parchment unrolls, a scribe writes the seven āyāt in ink, and the words rise into gold as you scroll. | TypeScript, Three.js WebGPU + TSL, HarfBuzz | [Live](https://jameel7007.github.io/fatihah-manuscript/) |
 | [Muqarnas](https://github.com/Jameel7007/muqarnas) | A computational reconstruction of a thirteenth-century muqarnas vault from its two-dimensional plan. Exact ℚ(√2) geometry, a construction plan, a watertight mesh, and a real-time scroll-driven render. | TypeScript, Three.js, WebGPU | [Live](https://jameel7007.github.io/muqarnas/) |
 | [Rosette in Tesserae](https://github.com/Jameel7007/rosette) | A Moroccan zellige panel laid piece by piece: Hankin-method strapwork, 10,209 cut tiles dropped by a vertex shader, and frame-exact MP4 export. | JavaScript, Three.js, GLSL, WebCodecs | [Live](https://jameel7007.github.io/rosette/) |
 | [Order in Space](https://github.com/Jameel7007/order-in-space) | A geometry-first, scroll-driven study of polyhedral construction. A pure-TypeScript kernel generates the Platonic and Archimedean solids and FCC sphere packings, independent of any renderer. | TypeScript, Three.js | [Live](https://jameel7007.github.io/order-in-space/) |
