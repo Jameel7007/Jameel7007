@@ -29,7 +29,7 @@ I'm a front-end developer and English teacher. I build interactive pieces in Thr
 | Project | What it is | Built with | |
 | --- | --- | --- | --- |
 | [Lesson Error Tracker](https://github.com/Jameel7007/error-tracker) | A local-first app for language tutors. Log what a student said and the correction, and it ranks each student's recurring errors as persistent, improving, or new. | React, TypeScript, Vite, Vitest | [Live](https://jameel7007.github.io/error-tracker/) |
-| [Thomas's Classroom](https://github.com/Jameel7007/thomas-classroom) | The site my students learn from: a complete A0 to C1 English curriculum for adult learners, 114 lessons, with method and booking pages. | Astro | [Live](https://jameel7007.github.io/thomas-classroom/) |
+| [Thomas's Classroom](https://thomasclassroom.com/) | The site my students learn from: a complete A0 to C1 English curriculum for adult learners, 114 lessons, with method and booking pages. | Astro | [Live](https://thomasclassroom.com/) |
 
 ## How I work
 
