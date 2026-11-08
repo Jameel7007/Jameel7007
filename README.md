@@ -6,10 +6,15 @@ I'm a front-end developer and English teacher. I build interactive pieces in Thr
 
 **Open to freelance projects:** scrollytelling pages, interactive 3D for museums and cultural organisations, and generative pattern work. Email [thomasmmooney@yahoo.com](mailto:thomasmmooney@yahoo.com).
 
-<p>
-  <a href="https://jameel7007.github.io/endless-rose/"><img src="https://raw.githubusercontent.com/Jameel7007/endless-rose/main/docs/readme/rose.jpg" alt="Endless Rose: a zellige rose laid in the dome" width="32%" /></a>
-  <a href="https://jameel7007.github.io/rosette/"><img src="https://raw.githubusercontent.com/Jameel7007/rosette/main/docs/readme/finished.jpg" alt="Rosette in Tesserae: a finished zellige panel" width="32%" /></a>
-  <a href="https://jameel7007.github.io/muqarnas/"><img src="https://raw.githubusercontent.com/Jameel7007/muqarnas/main/docs/media/muqarnas-hero.gif" alt="A muqarnas vault rising from its plan" width="32%" /></a>
+<p align="center">
+  <a href="https://jameel7007.github.io/endless-rose/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/endless-rose.jpg" alt="Endless Rose: a zellige rose laid in the dome" width="31.5%" /></a>
+  <a href="https://jameel7007.github.io/rosette/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/rosette.jpg" alt="Rosette in Tesserae: a finished zellige panel" width="31.5%" /></a>
+  <a href="https://jameel7007.github.io/muqarnas/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/muqarnas.jpg" alt="Muqarnas: the finished vault seen from below" width="31.5%" /></a>
+  <br />
+  <a href="https://jameel7007.github.io/order-in-space/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/order-in-space.jpg" alt="Order in Space: a semi-regular solid drawn from one point" width="23.5%" /></a>
+  <a href="https://jameel7007.github.io/misbaha/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/misbaha.jpg" alt="Misbaḥa: amber beads over a walnut rod" width="23.5%" /></a>
+  <a href="https://jameel7007.github.io/from-the-point-site/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/from-the-point.jpg" alt="From the Point: the twelvefold pattern in gold" width="23.5%" /></a>
+  <a href="https://jameel7007.github.io/masters-of-design-geometry-study/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/masters-of-the-design.jpg" alt="Masters of the Design: the Enneagram drawn from nine points" width="23.5%" /></a>
 </p>
 
 ## 3D and geometry
