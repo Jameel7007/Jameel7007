@@ -21,6 +21,7 @@ I'm a front-end developer and English teacher. I build interactive pieces in Thr
 
 | Project | What it is | Built with | |
 | --- | --- | --- | --- |
+| [Zellige Configurator](https://github.com/Jameel7007/zellige-configurator) | Design a zellige panel and take it to a workshop: choose the centrepiece, size and glazes, see it on a wall or in a floor under a movable sun, and get the tile count, a spec sheet and a real-size cut plan (SVG and DXF). Built on Rosette's pattern engine. | TypeScript, React, Three.js, Vite | [Live](https://jameel7007.github.io/zellige-configurator/) |
 | [Muqarnas](https://github.com/Jameel7007/muqarnas) | A computational reconstruction of a thirteenth-century muqarnas vault from its two-dimensional plan. Exact ℚ(√2) geometry, a construction plan, a watertight mesh, and a real-time scroll-driven render. | TypeScript, Three.js, WebGPU | [Live](https://jameel7007.github.io/muqarnas/) |
 | [Rosette in Tesserae](https://github.com/Jameel7007/rosette) | A Moroccan zellige panel laid piece by piece: Hankin-method strapwork, 10,209 cut tiles dropped by a vertex shader, and frame-exact MP4 export. | JavaScript, Three.js, GLSL, WebCodecs | [Live](https://jameel7007.github.io/rosette/) |
 | [Order in Space](https://github.com/Jameel7007/order-in-space) | A geometry-first, scroll-driven study of polyhedral construction. A pure-TypeScript kernel generates the Platonic and Archimedean solids and FCC sphere packings, independent of any renderer. | TypeScript, Three.js | [Live](https://jameel7007.github.io/order-in-space/) |
