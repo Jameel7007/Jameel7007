@@ -7,9 +7,10 @@ I'm a front-end developer and English teacher. I build interactive pieces in Thr
 **Open to freelance projects:** scrollytelling pages, interactive 3D for museums and cultural organisations, and generative pattern work. Email [thomasmmooney@yahoo.com](mailto:thomasmmooney@yahoo.com).
 
 <p align="center">
-  <a href="https://jameel7007.github.io/endless-rose/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/endless-rose.jpg" alt="Endless Rose: a zellige rose laid in the dome" width="31.5%" /></a>
-  <a href="https://jameel7007.github.io/rosette/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/rosette.jpg" alt="Rosette in Tesserae: a finished zellige panel" width="31.5%" /></a>
-  <a href="https://jameel7007.github.io/muqarnas/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/muqarnas.jpg" alt="Muqarnas: the finished vault seen from below" width="31.5%" /></a>
+  <a href="https://jameel7007.github.io/endless-rose/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/endless-rose.jpg" alt="Endless Rose: a zellige rose laid in the dome" width="23.5%" /></a>
+  <a href="https://jameel7007.github.io/rosette/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/rosette.jpg" alt="Rosette in Tesserae: a finished zellige panel" width="23.5%" /></a>
+  <a href="https://jameel7007.github.io/muqarnas/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/muqarnas.jpg" alt="Muqarnas: the finished vault seen from below" width="23.5%" /></a>
+  <a href="https://jameel7007.github.io/zellige-configurator/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/zellige-configurator.jpg" alt="Zellige Configurator: a panel hung on a wall in evening light" width="23.5%" /></a>
   <br />
   <a href="https://jameel7007.github.io/order-in-space/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/order-in-space.jpg" alt="Order in Space: a semi-regular solid drawn from one point" width="23.5%" /></a>
   <a href="https://jameel7007.github.io/misbaha/"><img src="https://raw.githubusercontent.com/Jameel7007/Jameel7007/main/gallery/misbaha.jpg" alt="Misbaḥa: amber beads over a walnut rod" width="23.5%" /></a>
